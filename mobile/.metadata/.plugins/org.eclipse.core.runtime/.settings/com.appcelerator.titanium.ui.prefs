@@ -1,0 +1,9 @@
+=run
+LAST_LAUNCH_TIMESTAMP=1424458225817
+android\:launchMode=package
+android\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.module.launchShortcut
+eclipse.preferences.version=1
+ios\:launchMode=package
+ios\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.module.launchShortcut
+preference.show.console.onError=true
+preference.studio.perspective.version=103
